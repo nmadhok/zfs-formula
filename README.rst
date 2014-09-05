@@ -24,3 +24,8 @@ Formula Dependencies
 ====================
 
 * `epel-formula <https://github.com/saltstack-formulas/epel-formula>`_
+
+Author
+======
+
+* Nitin Madhok nmadhok@clemson.edu
