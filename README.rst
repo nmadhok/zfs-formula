@@ -28,4 +28,4 @@ Formula Dependencies
 Author
 ======
 
-* Nitin Madhok nmadhok@clemson.edu
+Nitin Madhok nmadhok@clemson.edu
