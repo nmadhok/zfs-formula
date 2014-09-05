@@ -2,7 +2,7 @@
 zfs-formula
 ================
 
-A saltstack formula to install ZFS on RHEL/CentOS/SL/OEL.
+A saltstack formula to install ZFS on RHEL 6/7, CentOS 6/7, Oracle Linux 6/7.
 
 .. note::
 
@@ -18,4 +18,4 @@ Available states
 ``zfs``
 ------------
 
-Installs the zfs repo and package.
+Installs the ZFS RPM package and ZFS package for the current OS.
