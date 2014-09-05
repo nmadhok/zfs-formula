@@ -19,3 +19,8 @@ Available states
 ------------
 
 Installs the ZFS RPM package and ZFS package for the current OS.
+
+Formula Dependencies
+====================
+
+* epel-formula
