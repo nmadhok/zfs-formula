@@ -23,4 +23,4 @@ Installs the ZFS RPM package and ZFS package for the current OS.
 Formula Dependencies
 ====================
 
-* epel-formula
+* `epel-formula <https://github.com/saltstack-formulas/epel-formula>`_
